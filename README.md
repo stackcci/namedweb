@@ -7,15 +7,15 @@ namedmanager
 
 ![Alt text](img/first.png "前台管理截图")
 
-####3.安装和使用
+#3. การติดตั้งและการใช้งาน
 
-**本文是针对centos 6 系统为范本**
+บทความนี้เป็นเทมเพลตสำหรับระบบ centos 6
 
-下载包并安装。rpm包在rpm目录
+ดาวน์โหลดแพ็คเกจและติดตั้ง แพ็คเกจ rpm อยู่ในไดเร็กทอรี rpm
 
-#####安装namedmanager-www 管理界面
+#####ติดตั้งชื่อผู้จัดการ-www ส่วนต่อประสานการจัดการ
 
-**安装如下：**
+**ติดตั้งดังนี้: **
 
 	rpm -Uvh namedmanager-www-1.5.1-1.el6.noarch.rpm
 	[root@localhost noarch]# rpm -ihv namedmanager-www-1.5.1-1.el6.noarch.rpm 
