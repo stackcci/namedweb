@@ -16,6 +16,7 @@ namedmanager
 #####ติดตั้งชื่อผู้จัดการ-www ส่วนต่อประสานการจัดการ
 
 **ติดตั้งดังนี้: **
+https://repos.jethrocarr.com/
 
 	rpm -Uvh namedmanager-www-1.5.1-1.el6.noarch.rpm
 	[root@localhost noarch]# rpm -ihv namedmanager-www-1.5.1-1.el6.noarch.rpm 
